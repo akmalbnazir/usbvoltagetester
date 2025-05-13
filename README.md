@@ -24,9 +24,6 @@ A USB-powered diagnostic tool that measures real-time voltage and current draw o
 - Onboard logging
 - 3D-printed case
 
-## 📸 Preview
-_Add a screenshot of your board layout or 3D model here_
-
 ## 🧑‍💻 Author
-Designed by [Your Name] – May 2025  
+Designed by Akmal Nazir – May 2025  
 MIT License

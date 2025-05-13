@@ -1,0 +1,25 @@
+Drill report for USB-Voltage-Tester.kicad_pcb
+Created on 2025-05-13T17:33:20-0400
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'USB-Voltage-Tester-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (28 holes)
+    T2  0.600mm  0.0236"  (4 holes)  (with 4 slots)
+    T3  1.000mm  0.0394"  (4 holes)
+
+    Total plated holes count 36
+
+
+Drill file 'USB-Voltage-Tester-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.650mm  0.0256"  (2 holes)
+
+    Total unplated holes count 2

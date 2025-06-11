@@ -25,7 +25,7 @@ A USB-powered diagnostic tool that measures real-time voltage and current draw o
 - 3D-printed case
 
 ## 📸 Preview
-![image](https://github.com/user-attachments/assets/5fd89d9f-a2d8-43ed-9450-45654adba0f3)
+![image](https://github.com/user-attachments/assets/4c6f6a98-ebbf-4788-bb59-dd48427f3cab)
 
 ## 🧑‍💻 Author
 Designed by Akmal Nazir – May 2025  
